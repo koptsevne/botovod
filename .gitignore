@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Local bot secrets and runtime data
+bot-service/bot/.env
+bot-service/bot/service-account.json
+bot-service/data/
+bot-service/bot/data/
+
+# Local Python environment
+bot-service/.venv/
+.venv/
+
